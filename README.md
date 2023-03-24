@@ -12,12 +12,22 @@
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 </p>
 
-<p align=center> <strong>
+<h3 align=center> <strong>
 Test your memory to flip your way to crypto riches and rewards!
 </strong>
-</p>
+</h3>
 
-![Screenshot (565)](https://user-images.githubusercontent.com/91699007/227594739-df15afd6-b7bb-4bbb-82ee-e0a2c3b042bb.png)
+
+
+## Video Demo 🤩
+<img src="https://user-images.githubusercontent.com/91699007/227605162-43a53d1c-baa6-448e-83bd-61c739b2375a.mp4" height="400">
+
+
+
+## Screenshot 🥰
+![Screenshot (565)](https://user-images.githubusercontent.com/91699007/227607008-673b8f26-6ff9-4a55-80af-4d4e665bc991.png)
+
+
 
 ## Features ✨
 A crypto memory game can help to solve a few different problems related to cryptocurrencies. Firstly, it can help individuals to learn more about the different types of cryptocurrencies available and their unique features. Many people are interested in cryptocurrencies but may not fully understand how they work or how to invest in them. A crypto memory game can provide an engaging and interactive way to learn more about the various cryptocurrencies and their properties.
@@ -44,9 +54,11 @@ Lastly, a crypto memory game can also provide an enjoyable way to spend time whi
 ![Screenshot (562)](https://user-images.githubusercontent.com/91699007/227594754-47fef34e-b678-4194-81c3-0fcd8e068869.png)
 </details>
 
-# <p align="center">Contributors
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=thathoichoigirl/Flip-and-Find)
+
+<h4 align="center">
+	Made with ❤ by Hoimanti Dutta 👩‍💻
+</h4>
 
 
 
