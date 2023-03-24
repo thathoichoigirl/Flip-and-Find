@@ -54,6 +54,18 @@ Lastly, a crypto memory game can also provide an enjoyable way to spend time whi
 ![Screenshot (562)](https://user-images.githubusercontent.com/91699007/227594754-47fef34e-b678-4194-81c3-0fcd8e068869.png)
 </details>
 
+## Installation 🤗
+
+> Use the package manager npm to install
+```bash
+npm install
+```
+> Runs the app in the development mode.
+> Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```bash
+npm start
+```						     
+
 
 
 <h4 align="center">
